@@ -1,0 +1,22 @@
+body {
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 0px;
+	color: #3c3c3c;
+	font-weight: lighter;
+}
+
+h1 {
+	font-weight: lighter;
+	color: black;
+}
+
+article {
+	width: 21em;
+	margin: auto;
+}
+
+section {
+	border-bottom: 1px solid #bbc0c6;
+	padding-bottom: 1em;
+}
